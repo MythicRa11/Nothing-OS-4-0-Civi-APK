@@ -1,2 +1,2 @@
-# Nothing-OS-4-0-Civi-APK
-Nothing OS 4.0 Civi Launcher - Automated Android 14 APK Builder
+# Nothing OS 4.0 Civi APK
+Automatically compiled V2/V3 signed Android 14 APK for Xiaomi 14 Civi.
